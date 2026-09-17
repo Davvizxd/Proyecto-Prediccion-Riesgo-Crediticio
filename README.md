@@ -44,7 +44,7 @@ Variable objetivo:
 
 ---
 
-# ⚙️ Tecnologías Utilizadas
+#  Tecnologías Utilizadas
 
 - Python
 - Google Colab
