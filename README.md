@@ -1,6 +1,6 @@
-# 📊 Predicción del Riesgo Crediticio mediante Machine Learning
+#  Predicción del Riesgo Crediticio mediante Machine Learning
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto desarrolla una solución basada en Machine Learning para predecir el riesgo de incumplimiento de clientes que solicitan un préstamo.
 
@@ -10,13 +10,13 @@ Como complemento, se desarrolló un *Dashboard Interactivo en Looker Studio*, do
 
 ---
 
-# 🎯 Objetivo
+#  Objetivo
 
 Desarrollar un modelo de Machine Learning capaz de predecir el riesgo crediticio de un cliente antes de aprobar un préstamo, con el fin de reducir el riesgo financiero y mejorar el proceso de evaluación crediticia.
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 *Fuente:*
 
@@ -58,7 +58,7 @@ Variable objetivo:
 
 ---
 
-# 🔄 Metodología
+#  Metodología
 
 El desarrollo del proyecto siguió las siguientes etapas:
 
@@ -75,7 +75,7 @@ El desarrollo del proyecto siguió las siguientes etapas:
 
 ---
 
-# 🤖 Modelo de Machine Learning
+#  Modelo de Machine Learning
 
 Modelo seleccionado:
 
@@ -85,7 +85,7 @@ Se eligió este algoritmo por presentar el mejor rendimiento durante las pruebas
 
 ---
 
-# 📈 Resultados del Modelo
+#  Resultados del Modelo
 
 | Métrica | Resultado |
 |----------|-----------|
@@ -98,7 +98,7 @@ Estos resultados demuestran un buen desempeño del modelo para clasificar client
 
 ---
 
-# 📊 Dashboard
+# Dashboard
 
 El Dashboard desarrollado en Looker Studio permite visualizar de manera interactiva:
 
@@ -115,7 +115,7 @@ Además, cuenta con filtros dinámicos que permiten analizar la información en 
 
 ---
 
-# 💼 Valor para la Empresa
+#  Valor para la Empresa
 
 La solución permite:
 
@@ -127,7 +127,7 @@ La solución permite:
 
 ---
 
-# 📁 Estructura del Proyecto
+#  Estructura del Proyecto
 
 
 Proyecto-Prediccion-Riesgo-Crediticio
